@@ -40,7 +40,7 @@ header div{
     display: flex;
     padding: 4px;
 
-    transition: transform .3s;
+    transition: transform .4s;
 }
 
 header div:hover {
@@ -98,7 +98,7 @@ section ul {
 }
 
 section ul li {
-    transition: transform .2s;
+    transition: transform .4s;
 }
 
 section ul li:hover {
