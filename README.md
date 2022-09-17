@@ -1,6 +1,6 @@
 # NLW eSportes > trilha Explore
 
-![preview] (./.github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto construido a partir do evento Next Level Week da RocketSeat
 
