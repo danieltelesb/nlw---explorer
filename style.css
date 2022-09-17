@@ -53,10 +53,6 @@ header div img {
     border-radius: 50%;
 }
 
-main * {
-    /* border: 1px solid red; */
-}
-
 main {
     max-width: 580px;
     width: 90%;
